@@ -39,11 +39,6 @@ env/
 instance/
 .webassets-cache
 
-# Uploads and cache
-uploads/
-*.pdf
-*.txt
-
 # IDE
 .vscode/
 .idea/
